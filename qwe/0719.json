@@ -43,7 +43,7 @@
     {"key":"csp_xml___量子资源","name":"🐝量子资源"  ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 ## XPath系列
-    {"key":"csp_xpath_wmkk","name":"完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXP/wanmeikk.json"},
+    
 
     #官采资源
 
