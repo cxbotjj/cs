@@ -35,6 +35,7 @@
     {"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXB/影视工厂.json"},
     {"key":"csp_biubiu_大米星球","name":"🥒大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXB/大米星球.json"},
     {"key":"csp_biubiu_完美看看影视","name":"🥒完美看看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXB/完美看看影视.json"},
+    {"key":"csp_biubiu_神马影院","name":"🥒神马影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXB/神马影院.json"},
     {"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXB/LIBVIO.json"},
     {"key":"csp_xml___量子资源","name":"🐝量子资源"  ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
