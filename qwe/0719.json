@@ -18,7 +18,7 @@
     {"key":"在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},   
     {"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"🥇小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-    //{"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_Auete","name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name": "🥇Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
