@@ -1,5 +1,5 @@
 {
-  "spider":"https://shuyuan.miaogongzi.net/shuyuan/1659226908.txt;md5;a51ff7fbb6c4cd2aefff959f45a52c71",
+  "spider":"https://shuyuan.miaogongzi.net/shuyuan/1659257299.txt",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly80MjI2NzgzMjAuZ2l0aHViLmlvL2NzL3F3ZS90di9saXZlLnR4dA=="]}]}],
 
   "sites":[
