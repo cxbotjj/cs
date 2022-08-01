@@ -34,7 +34,7 @@
     {"key":"FindZY","name":"🐱找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
     {"key": "csp_xpath_网络搜集库qiumi","name": "球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
-    {"key":"csp_BBB","name":"🐞哔哩哔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/MaooXB/bili.json"},
+    {"key":"csp_BBB","name":"🐞哔哩哔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/MaooXB/Bili.json"},
     {"key":"csp_Tkys","name":"Tkys(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
    
     {"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/MaooXB/LIBVIO.json"},
