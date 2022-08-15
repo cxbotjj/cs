@@ -5,7 +5,7 @@
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly80MjI2NzgzMjAuZ2l0aHViLmlvLzMyMC9UVkJveC90di9saXZlLnR4dA=="]}]}],
 	
 	"sites": [ 
-	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvbox/tvjs/bili.json"},
+	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/MaooXB/bili.json"},
 	    {"key":"csp_77","name":"💓酷云七七（推荐）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 		{"key":"360_spider","name":"📽️360影视（官）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 		{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
