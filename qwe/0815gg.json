@@ -1,8 +1,8 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-	"spider": "http://刚刚.live/jar/",
+	"spider": "https://api.wangmeipo.cn/tv/mainjar.jar;md5;650fc73d1ff18935809a6e64d51fddbb",
 	"wallpaper": "http://刚刚.live/图",
-	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly90dmJveC1nZy5vc3MtY24tc2hhbmdoYWkuYWxpeXVuY3MuY29tL3R2Ym94L2xpdmUudHh0"]}]}],
+	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly80MjI2NzgzMjAuZ2l0aHViLmlvLzMyMC9UVkJveC90di9saXZlLnR4dA=="]}]}],
 	
 	"sites": [ 
 	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/bili.json"},
