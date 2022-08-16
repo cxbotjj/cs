@@ -109,7 +109,7 @@
 //		{"key":"csp_hbys","name":"🌐简影（暂时挂了）","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMTFUMTA6NTk6MTUuMzIrMDg6MDAiLCJEZWxldGVkQXQiOm51bGwsInVzZXJfZW1haWwiOiIxNzI1OTgzNjRAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiMGVhZWI2NjktZjc5ZC00N2E1LWJhMzYtMDY2NDk5MmQyNjZjIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjA4MjIzMTIsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.ZJ2LW6fS_PMXK29IaoPeUu0cpPUPJgPbkqJQ55jfAYQ"},
 		{
 			"key": "Gitcafe",
-			"name": "🗞️小纸条（云盘高清）",
+			"name": "🗞️小纸条",
 			"type": 3,
 			"api": "csp_GitCafe",
 			"searchable": 1,
