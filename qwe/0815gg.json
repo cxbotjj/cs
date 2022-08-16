@@ -115,7 +115,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "1dde60eefe454d9aa0e0d83600555af2"
 		}, {
 			"key": "csp_DiDuan",
 			"name": "⤵️低端影视",
@@ -568,7 +568,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "e4bf4f16da5f491e8eb64577a107b1d0"
+			"ext": "1dde60eefe454d9aa0e0d83600555af2"
 		}, 
 		{
 			"key": "zhaozy",
@@ -578,7 +578,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "e4bf4f16da5f491e8eb64577a107b1d0"
+			"ext": "1dde60eefe454d9aa0e0d83600555af2"
 		}, 
 		{
 			"key": "push_agent",
@@ -588,7 +588,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "e4bf4f16da5f491e8eb64577a107b1d0"
+			"ext": "1dde60eefe454d9aa0e0d83600555af2"
 		}
 	],
 	"parses": [{
