@@ -655,13 +655,6 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "e4bf4f16da5f491e8eb64577a107b1d0"
-		}, {
-			"key": "更多",
-			"name": "🚫失效反馈Q群：493192284",
-			"type": 1,
-			"api": "",
-			"searchable": 0,
-			"quickSearch": 0
 		}
 	],
 	"parses": [{
