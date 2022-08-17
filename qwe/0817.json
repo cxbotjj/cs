@@ -1,6 +1,6 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-	"spider": "https://api.wangmeipo.cn/tv/0817.jar;md5;9da84440488b24dcf63c99913de2ab04",
+	"spider": "https://api.wangmeipo.cn/tv/cs0817.jar;md5;340bec9e06d6354f351fab1479146555",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
@@ -13,6 +13,7 @@
 	    
 	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/bili.json"},
 	    {"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
+	    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_77",
 			"name": "💓酷云七七（推荐）",
