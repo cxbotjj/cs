@@ -1,0 +1,18 @@
+{
+	"libv": "http://81.71.49.249:4433/iphones/libvio.php?url=",
+	"xxjx": "http://81.71.49.249:4433/iphones/xinxin.php?url=",
+	"zxzj": "http://81.71.49.249:4433/iphones/zxzj.php?url=",
+	"4kjx": "http://81.71.49.249:4433/iphones/100.php?url=",
+	"jsjx": "http://81.71.49.249:4433/iphones/100.php?url=",
+	"rrjx": "http://81.71.49.249:4433/iphones/400.php?url=",
+	"rxjx": "http://81.71.49.249:4433/iphones/rongxing.php?url=",
+	"zbjx": "http://81.71.49.249:4433/iphones/huya.php?id=",
+	"gqjx": "http://81.71.49.249:4433/iphones/100.php?url=",
+	"appid": "10000",
+	"version": "1.2.9",
+	"host": "81.71.49.249:4433",
+	"headers": {
+		"host": "81.71.49.249:4433",
+		"User-Agent": "shabi"
+}
+}
