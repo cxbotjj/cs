@@ -1,5 +1,5 @@
 {
-	"spider": "https://api.wangmeipo.cn/tv/0820.jar;md5;c3413d2d0e6e4cd8885507e3f367600c",
+	"spider": "https://422678320.github.io/cs/qwe/0820.jar;md5;9e963e589b777f293aed6746acccf7c3",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
@@ -210,7 +210,7 @@
 			"filterable": 1
 		},
 		{"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-		//{"key":"bdys","name":"✈哔嘀(磁力测试)","type":3,"api":"csp_XPbd$1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/Bdys.json"},
+		{"key":"bdys","name":"✈哔嘀(磁力测试)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/Bdys.json"},
 		{
 			"key": "csp_Tkys",
 			"name": "📡天空影视",
