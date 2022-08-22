@@ -21,7 +21,6 @@
 	    {"key":"csp_Wmkk","name":"👁️完美看看","type":3,"api":"csp_Wmkk","filterable":1,"quickSearch":1,"searchable":1},
 	    {"key":"Ikan","name":"💘爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1}, 
 	    {"key":"天堂资源","name":"📌天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
-	    {"key":"Ekan_spider","name":"🙈Ekan","type":3,"api":"csp_Ekan","filterable":1,"quickSearch":1,"searchable":1},
 	    {"key":"追剧喵","name":"🐈追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1}, 
 	    {"key":"Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
