@@ -1,12 +1,12 @@
 {
-	"spider":"https://422678320.github.io/cs/qwe/0820.jar;md5;9e963e589b777f293aed6746acccf7c3",
+	"spider":"https://422678320.github.io/cs/qwe/0822.jar",
 	"wallpaper":"http://刚刚.live/图",
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly80MjI2NzgzMjAuZ2l0aHViLmlvL2NzL3F3ZS90di9saXZlLnR4dA=="]}]}],
 	
 	"sites":[
 	    
 	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/bili.json"},
-	    {"key":"293视频","name":"2️⃣293视频🐈","type": 3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+	    {"key":"293视频","name":"2️⃣293视频","type": 3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 	    //{"key":"酷猫","name":"🐞酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_Nfyun","name":"🙈Nfyun(SP)","type":3,"api":"csp_Nfyun","filterable":1,"quickSearch":1,"searchable":1},
 	    {"key":"csp_QQ","name":"🍅腾讯视频","type":3,"api":"csp_QQ","jar":"https://422678320.github.io/cs/qwe/tvjs/腾讯.txt"},
