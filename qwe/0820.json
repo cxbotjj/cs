@@ -12,7 +12,7 @@
             {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/爱奇艺.txt"},
             {"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/芒果.txt"},
 	    {"key":"csp_剧荒","name":"👿剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-	    {"key":"Bdys","name":"✈哔嘀(磁力)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/Bdys.json",
+	    {"key":"Bdys","name":"✈哔嘀(磁力)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/Bdys.json",
 "jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"},
 	    {"key":"csp_77","name":"💓酷云七七（推荐）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"360_spider","name":"📽️360影视（官）","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
