@@ -25,7 +25,7 @@
 	    {"key":"Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
             {"key":"Lezhu_spider","name":"🐷乐猪影视","type":3,"api":"csp_Lezhu","filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-            {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
+            {"key":"Gitcafe.1","name":"📜小纸条","type":3,"api":"csp_Gitcafe.1","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
 	    {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 	    {"key":"神马影院","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_Bttoo","name":"🥂两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
