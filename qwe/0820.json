@@ -264,8 +264,9 @@
 			"ext": "1dde60eefe454d9aa0e0d83600555af2"
 		}
 	],
-"parses":[
-{
+	
+"parses": [
+    {
     "name":"解析聚合",
     "type":3,
     "url":"Demo"
@@ -674,4 +675,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
+       "wallpaper": "https://picsum.photos/1280/720/?blur=10",
 }
