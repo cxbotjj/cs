@@ -38,7 +38,8 @@
             {"key":"csp_LibVio","name":"👐LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0}, 
 	    {"key":"csp_Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1}, 
 	    {"key":"csp_Cokemv","name":"⛲Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1}, 
-	    {"key":"3EDY","name":"☘️3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},	
+	    {"key":"3EDY","name":"☘️3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+	    {"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/tvjs/分享短视频.json"},
 		{
 			"key": "csp_AppYsV2",
 			"name": "🍹优众影视",
