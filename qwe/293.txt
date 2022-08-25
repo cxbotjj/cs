@@ -1,12 +1,10 @@
 {
-	"libv": "http://123.56.222.84:2025/iphones/libvio.php?url=",
-	"xxjx": "http://123.56.222.84:2025/iphones/xinxin.php?url=",
-	"zxzj": "http://123.56.222.84:2025/iphones/zxzj.php?url=",
-	"4kjx": "http://123.56.222.84:2025/iphones/100.php?url=",
-	"jsjx": "http://123.56.222.84:2025/iphones/100.php?url=",
-	"rrjx": "http://123.56.222.84:2025/iphones/400.php?url=",
-	"rxjx": "http://123.56.222.84:2025/iphones/rongxing.php?url=",
-	"zbjx": "http://123.56.222.84:2025/iphones/huya.php?id=",
+
+	"qq": "http://123.56.222.84:2025/iphones/100.php?url=",
+	"youku": "http://123.56.222.84:2025/iphones/100.php?url=",
+	"iqiyi": "http://123.56.222.84:2025/iphones/100.php?url=",
+	"mgtv": "http://123.56.222.84:2025/iphones//100.php?url=",
+	"le": "http://123.56.222.84:2025/iphones/200.php?url=",
 	"gqjx": "http://123.56.222.84:2025/iphones/100.php?url=",
 	"appid": "10000",
 	"version": "1.2.9",
