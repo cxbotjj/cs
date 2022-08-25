@@ -6,7 +6,7 @@
 	"sites":[
 	    
 	    {"key":"csp_77","name":"💓酷云七七（推荐）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-	    {"key":"293视频","name":"2️⃣293视频","type": 3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+	    {"key":"293视频","name":"🐷293视频","type": 3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 	    //{"key":"csp_Nfyun","name":"🙈Nfyun(SP)","type":3,"api":"csp_Nfyun","filterable":1,"quickSearch":1,"searchable":1},
 	    {"key":"csp_QQ","name":"🍅腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/腾讯.txt"},
             {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/爱奇艺.txt"},
