@@ -8,7 +8,7 @@
 	"rrjx":"http://123.56.222.84:2025/iphones/400.php?url=",
 	"rxjx":"http://123.56.222.84:2025/iphones/rongxing.php?url=",
 	"zbjx":"http://123.56.222.84:2025/iphones/huya.php?id=",
-	"qq":"http://123.56.222.84:2025/iphones/100.php?url=",
+	"qq":"http://123.56.222.84:2025/iphones/400.php?url=",
 	"youku":"http://123.56.222.84:2025/iphones/100.php?url=",
 	"iqiyi":"http://123.56.222.84:2025/iphones/100.php?url=",
 	"mgtv":"http://123.56.222.84:2025/iphones/100.php?url=",
